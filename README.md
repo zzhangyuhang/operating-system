@@ -9,7 +9,7 @@
 第二章:[启动和用户态和内核态的交互](https://github.com/zzhangyuhang/operating-system/blob/master/2.启动和用户态和内核态的交互.md)
 -------------------------
 
-第三章:[内存管理和连续地址分配](https://github.com/zzhangyuhang/operating-system/blob/master/3.内存管理.md)
+第三章:[内存管理](https://github.com/zzhangyuhang/operating-system/blob/master/3.内存管理.md)
 ------------------------
 
 
