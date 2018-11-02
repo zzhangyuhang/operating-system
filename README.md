@@ -17,3 +17,5 @@
 ## 第四章:[虚拟内存管理技术](https://github.com/zzhangyuhang/operating-system/blob/master/4.虚拟内存技术.md)
 
 ## 第五章:[页面置换算法](https://github.com/zzhangyuhang/operating-system/blob/master/5.页面置换算法.md)
+
+## 第六章:[进程和线程](https://github.com/zzhangyuhang/operating-system/blob/master/6.页进程和线程.md)
