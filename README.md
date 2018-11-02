@@ -18,4 +18,4 @@
 
 ## 第五章:[页面置换算法](https://github.com/zzhangyuhang/operating-system/blob/master/5.页面置换算法.md)
 
-## 第六章:[进程和线程](https://github.com/zzhangyuhang/operating-system/blob/master/6.页进程和线程.md)
+## 第六章:[进程和线程](https://github.com/zzhangyuhang/operating-system/blob/master/6.进程和线程.md)
