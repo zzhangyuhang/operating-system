@@ -21,3 +21,5 @@
 ## 第六章:[进程和线程](https://github.com/zzhangyuhang/operating-system/blob/master/6.进程和线程.md)
 
 ## 第七章:[调度](https://github.com/zzhangyuhang/operating-system/blob/master/7.调度.md)
+
+## 第八章:[同步互斥](https://github.com/zzhangyuhang/operating-system/blob/master/8.同步互斥.md)
