@@ -22,4 +22,4 @@
 
 ## 第七章:[调度](https://github.com/zzhangyuhang/operating-system/blob/master/7.调度.md)
 
-## 第八章:[同步互斥](https://github.com/zzhangyuhang/operating-system/blob/master/8.同步互斥.md)
+## 第八章:[临界区](https://github.com/zzhangyuhang/operating-system/blob/master/8.临界区.md)
