@@ -22,6 +22,6 @@
 
 ## 第七章:[调度](https://github.com/zzhangyuhang/operating-system/blob/master/7.调度.md)
 
-## 第八章:[临界区的互斥](https://github.com/zzhangyuhang/operating-system/blob/master/8.临界区的互斥.md)
+## 第八章:[进程间的互斥](https://github.com/zzhangyuhang/operating-system/blob/master/8.进程间的互斥.md)
 
 ## 第九章:[进程间的同步](https://github.com/zzhangyuhang/operating-system/blob/master/9.进程间的同步.md)
