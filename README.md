@@ -25,3 +25,5 @@
 ## 第八章:[进程间的互斥](https://github.com/zzhangyuhang/operating-system/blob/master/8.进程间的互斥.md)
 
 ## 第九章:[进程间的同步](https://github.com/zzhangyuhang/operating-system/blob/master/9.进程间的同步.md)
+
+## 第十章:[死锁](https://github.com/zzhangyuhang/operating-system/blob/master/10.死锁.md)
