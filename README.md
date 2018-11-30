@@ -27,3 +27,5 @@
 ## 第九章:[进程间的同步](https://github.com/zzhangyuhang/operating-system/blob/master/9.进程间的同步.md)
 
 ## 第十章:[死锁](https://github.com/zzhangyuhang/operating-system/blob/master/10.死锁.md)
+
+## 第十一章:[进程通信](https://github.com/zzhangyuhang/operating-system/blob/master/11.进程通讯.md)
