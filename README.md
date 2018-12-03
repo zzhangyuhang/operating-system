@@ -28,4 +28,4 @@
 
 ## 第十章:[死锁](https://github.com/zzhangyuhang/operating-system/blob/master/10.死锁.md)
 
-## 第十一章:[进程通信](https://github.com/zzhangyuhang/operating-system/blob/master/11.进程通讯.md)
+## 第十一章:[进程通信](https://github.com/zzhangyuhang/operating-system/blob/master/11.进程通信.md)
